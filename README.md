@@ -1,9 +1,13 @@
 **# Vinple-AI : Terminal Based AI Assisstant with Basic AI capabilities** 
 
 **Features:**
+
     1.)Chatbot with Rich Console Output and AI Voice Response
+
     2.)Optical Character Recognition
+    
     3.)Image Text Extraction with Tesseract OCR
+    
     4.)Browser Automation with Typing Animation (Google Chrome)
 
 **Required Python Libraries to Install:**

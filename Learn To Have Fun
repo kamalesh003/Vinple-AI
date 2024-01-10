@@ -1,0 +1,24 @@
+Start Your Interaction using "help" command.
+Commands:
+sel - Surf Through Google :)
+ocr - Perform Optical Character Recognition
+echo - Perform Simple Chat and Voice Responses 
+
+"sel" - command:
+    Triggering Selenium to automate a Google search with a specified search term. 
+    It opens a new Chrome browser tab, navigates to Google, types the provided search term with a simulated typing animation, and then executes the search.
+    The user is prompted to press Enter to close the browser after viewing the search results.
+
+"ocr" - command:
+    The camera will start capturing, and press 'Esc' to stop capturing.
+
+"echo"- command:
+    1.)Implements a command-line interface (CLI) for a basic chatbot using the spaCy natural language processing library. 
+    2.)It allows users to interact with the chatbot by entering text messages, and the chatbot responds with pre-defined messages based on recognized keywords and entities in the input.
+    3.)This program integrates text-to-speech functionality, using the pyttsx3 library, to audibly convey the AI responses using the Microsoft Zira voice.
+    4.)Greetings:  "hello","hi"
+       Asking about the chatbot:   "how are you"
+       Inquiring about the chatbot's name: "your name"
+       Date, Day, and Time queries: "date" , "day", "time",  "today"
+       Exit command: "exit"
+
